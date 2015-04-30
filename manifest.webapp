@@ -1,0 +1,20 @@
+{
+  "name": "Notes",
+  "launch_path": "/index.html",
+  "description": "Simple and fast notes application",
+  "default_locale": "en",
+  "version": "0.1.0",
+  "developer": {
+    "name": "pancake",
+    "url": "http://github.com/radare/fxos-app-notes/"
+  },
+  "icons": {
+    "32": "/img/icon32.png",
+    "60": "/img/icon60.png",
+    "64": "/img/icon64.png",
+    "90": "/img/icon90.png",
+    "120": "/img/icon120.png",
+    "128": "/img/icon128.png",
+    "256": "/img/icon256.png"
+  }
+}
